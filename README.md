@@ -9,7 +9,7 @@ Terceiro projeto do repositório, feito para praticar números aleatórios, loop
 ## 🎬 Demonstração
 
 <p align="center">
-  <img src="../../assets/adivinhacao-demo.gif" alt="Jogo de adivinhação vencido com busca binária" />
+  <img src="assets/adivinhacao-demo.gif" alt="Jogo de adivinhação vencido com busca binária" />
 </p>
 
 ---
@@ -138,5 +138,5 @@ g++ main.cpp -o adivinhacao
 - [ ] Trocar `rand()` pela biblioteca `<random>` (`std::mt19937` + `std::uniform_int_distribution`), que é a forma moderna de sortear números em C++
 ---
  
-⬅️ [Voltar para a lista de projetos](../../README.md)
+⬅️ [Ver os outros projetos em C++](https://github.com/futuremltz/Projetos-em-cpp)
  
